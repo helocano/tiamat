@@ -1,1 +1,548 @@
-
+,avibaseID,especie1_BirdLife,grupoEspecie_eBird,data_type,source,sexo,idade,paisWRI,comprimento_bico_culmen,comprimento_bico_nares,largura_bico,profundidade_bico,comprimento_tarso,comprimento_asa,comprimento_cauda,medidor
+7825,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.6,9.4,4.3,5.5,26.1,68.0,74.0,BD
+7826,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.7,8.9,4.2,5.6,26.1,75.0,80.0,SS
+7827,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.4,8.6,4.8,6.0,27.9,72.0,78.5,ML
+7828,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,M,0,Peru,15.0,9.2,5.5,5.7,27.1,80.0,83.0,ML
+7829,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,F,0,Peru,16.6,9.4,5.4,6.1,27.6,70.0,77.0,ML
+7836,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,13.6,8.6,4.8,5.6,26.9,72.0,79.0,SS
+7837,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.4,8.5,4.6,5.8,26.0,66.0,71.0,SS
+7838,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.7,9.0,4.7,5.9,21.9,74.0,80.0,SS
+7839,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.7,8.6,5.1,6.1,26.2,66.0,70.0,SS
+7840,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.7,9.0,4.8,5.6,27.2,71.0,78.0,CT
+7841,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.0,9.1,4.7,5.6,27.2,74.0,84.0,CT
+7842,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,F,0,Peru,16.6,8.8,5.0,6.0,25.2,73.0,75.0,CT
+7843,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,M,0,Peru,14.0,8.5,4.5,5.7,26.7,72.0,80.0,CT
+7844,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.7,8.6,5.2,6.5,26.5,71.0,72.0,CT
+7845,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.8,8.6,4.2,5.7,27.1,70.0,75.0,CT
+7847,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,13.7,9.0,5.1,6.0,27.1,68.0,70.0,RBL
+7848,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.2,8.2,5.6,6.4,27.1,69.5,74.0,ML
+7849,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.9,9.1,5.4,6.4,26.4,73.0,75.0,ML
+7850,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.5,8.7,5.6,6.4,28.0,75.0,80.0,ML
+7851,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.7,7.9,5.0,6.4,26.4,70.5,73.0,ML
+7852,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.8,9.0,4.8,5.9,26.6,66.0,75.0,ML
+7855,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,19.2,8.8,5.8,4.2,27.8,60.0,74.0,CT
+7856,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.6,9.0,4.8,6.1,26.4,65.5,68.0,CT
+7857,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.2,8.6,4.8,6.1,25.8,63.0,67.0,CT
+7858,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.1,8.3,5.2,6.1,26.5,71.0,74.0,ML
+7859,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,18.4,8.9,4.9,4.8,27.8,74.0,75.0,CT
+7860,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.3,9.1,5.5,6.2,26.1,69.0,73.0,CT
+7861,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.5,9.4,4.8,6.2,27.1,65.0,70.0,CT
+7862,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.5,8.7,5.0,6.0,26.8,74.0,78.0,CT
+7863,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.9,8.9,5.1,6.0,28.4,70.0,71.0,ML
+7864,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.6,9.6,5.0,5.8,26.7,72.0,79.0,ML
+7865,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.7,9.1,5.4,5.9,28.0,72.5,81.0,ML
+7866,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.0,9.0,5.5,6.2,27.2,68.0,70.0,CT
+7867,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.2,9.0,5.2,6.4,28.0,66.0,72.5,CT
+7868,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.9,9.5,4.8,6.2,27.0,68.0,73.5,CT
+7869,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.0,8.8,5.1,6.0,27.1,73.5,75.0,CT
+7870,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.8,9.4,5.1,6.1,27.2,70.0,77.0,CT
+7871,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,17.6,8.6,5.3,6.3,25.2,70.0,77.0,CT
+7872,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.9,8.7,5.0,6.0,26.5,70.0,76.0,ML
+7873,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.4,9.1,4.9,6.2,26.7,70.0,78.0,ML
+7875,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.7,8.7,4.9,6.2,27.9,72.0,77.0,ML
+7876,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.5,8.4,5.0,6.2,27.6,70.0,72.0,ML
+7877,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.5,8.8,5.6,6.6,26.0,65.0,72.0,ML
+7879,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.8,9.3,5.2,6.5,28.0,67.0,70.0,CT
+7880,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.5,8.5,5.5,6.1,26.4,69.5,76.0,ML
+7881,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.8,9.0,5.3,6.1,27.5,72.0,78.0,ML
+7882,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.7,8.5,4.5,3.6,18.4,73.0,80.0,ML
+7883,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.6,9.5,4.7,5.7,23.8,66.0,68.0,CT
+7884,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.9,8.6,4.2,5.6,24.8,72.0,74.0,CT
+7885,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,14.9,9.3,4.9,5.8,26.5,75.0,84.0,GAJ
+7886,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,16.7,9.2,5.0,6.1,26.6,68.0,70.0,GAJ
+7887,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.5,8.8,4.6,6.2,27.6,72.0,81.0,GAJ
+7888,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.5,8.9,4.5,6.1,26.0,69.0,74.0,GAJ
+7889,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.2,8.4,4.4,5.6,25.4,71.0,75.0,GAJ
+7890,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.1,9.0,4.7,6.0,25.9,70.0,73.0,GAJ
+7891,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,15.4,9.6,4.8,6.0,26.4,62.0,70.0,BD
+7892,AVIBASE-C9C868E0,Atlapetes rufinucha,Atlapetes rufinucha,2,Field1,U,0,Peru,13.1,7.9,4.7,5.7,25.2,76.0,84.2,SS
+23945,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Equatorial Guinea,25.1,19.3,4.2,3.6,16.0,62.0,43.0,PW
+23946,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Equatorial Guinea,23.9,18.6,3.7,3.1,14.8,64.5,55.0,CS
+23947,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Equatorial Guinea,25.4,19.3,4.3,3.5,16.6,65.0,50.0,PW
+23948,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Equatorial Guinea,23.8,18.1,3.4,3.5,15.8,65.0,50.0,CS
+23949,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,F,0,Equatorial Guinea,23.6,16.9,3.7,3.2,15.4,62.0,52.0,CS
+23950,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,F,0,Equatorial Guinea,23.8,17.9,3.5,3.1,15.2,60.0,45.0,CS
+23952,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Cameroon,26.0,19.2,4.0,3.4,15.6,61.0,45.0,PW
+23953,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Cameroon,24.0,19.1,4.1,3.7,16.2,66.0,47.0,PW
+23954,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Cameroon,23.8,19.9,4.4,3.5,15.8,62.0,46.0,PW
+23955,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,1,NHMUK,M,0,Cameroon,26.2,19.9,4.1,3.6,15.9,64.0,50.0,PW
+24247,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,1,Ghana,22.6,16.2,4.0,3.2,15.7,53.0,40.0,NNDA
+24248,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.5,17.4,4.4,3.5,16.4,61.5,57.0,NNDA
+24249,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,1,Ghana,21.7,16.9,4.7,3.0,16.5,53.0,38.0,NNDA
+24252,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,24.0,20.3,4.8,3.5,17.4,59.0,40.0,NNDA
+24253,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,19.8,17.7,4.2,3.2,16.9,52.0,39.0,NNDA
+24254,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.8,18.7,3.7,2.6,16.8,58.0,47.0,NNDA
+24255,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,21.5,18.4,4.1,3.2,16.5,52.0,42.0,NNDA
+24256,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,21.2,18.1,4.6,3.4,18.0,56.0,45.0,NNDA
+24257,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.8,17.6,4.6,3.8,16.2,59.0,51.0,NNDA
+24258,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.2,17.2,4.5,3.3,17.5,60.0,52.0,NNDA
+24259,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.8,18.1,4.0,3.3,16.9,59.0,50.0,NNDA
+24260,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,21.5,17.7,4.2,3.1,14.5,52.0,42.0,NNDA
+24261,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,25.7,19.9,4.4,3.2,18.2,57.0,45.0,NNDA
+24262,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,1,Ghana,22.2,16.5,4.4,2.9,16.3,53.0,39.0,NNDA
+24263,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.4,18.5,4.5,3.7,15.5,60.0,55.0,NNDA
+24264,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,23.2,16.9,4.1,2.9,15.2,52.0,42.0,NNDA
+24265,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.4,18.5,3.9,3.6,16.6,59.0,52.0,NNDA
+24266,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.6,18.5,4.3,3.5,16.7,62.0,52.0,NNDA
+24267,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,23.3,16.0,3.2,3.2,17.7,54.0,46.0,NNDA
+24268,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,22.3,16.8,4.6,3.2,15.4,52.0,52.0,NNDA
+24269,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.8,19.0,4.2,3.2,15.0,59.0,52.0,NNDA
+24270,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.6,18.3,4.3,3.2,15.1,59.0,51.0,NNDA
+24271,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,22.5,17.3,4.2,3.2,15.1,53.0,42.0,NNDA
+24272,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,20.4,16.3,3.5,2.5,18.3,54.0,42.0,NNDA
+24273,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,21.3,16.4,4.6,3.5,15.3,55.0,43.0,NNDA
+24274,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.0,17.4,4.3,3.6,16.2,62.0,54.0,NNDA
+24275,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,21.9,18.0,4.4,3.3,15.7,55.0,42.0,NNDA
+24276,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,20.8,15.8,4.4,3.2,15.8,55.0,44.0,NNDA
+24277,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,Ghana,21.7,17.8,3.3,3.4,14.6,61.0,51.0,NNDA
+24278,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,1,Ghana,19.6,16.3,3.0,2.9,13.9,52.0,41.0,NNDA
+24279,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.9,18.2,3.3,3.5,13.1,62.0,55.0,NNDA
+24280,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,21.9,16.9,4.0,3.3,15.7,60.0,51.0,NNDA
+24281,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.0,19.2,3.8,3.8,18.5,61.0,53.0,NNDA
+24282,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,22.5,18.4,3.5,3.5,17.8,60.0,54.0,NNDA
+24283,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.1,17.4,3.8,2.6,18.1,60.0,54.0,NNDA
+24284,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.1,18.6,3.8,3.7,17.8,61.0,55.0,NNDA
+24285,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,22.6,18.1,4.0,2.8,17.5,55.0,44.0,NNDA
+24287,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,24.2,17.8,4.2,3.3,17.2,60.0,55.0,NNDA
+24288,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Ghana,23.1,17.4,4.7,3.3,17.8,54.0,40.0,NNDA
+24289,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,M,0,Ghana,23.9,17.8,4.7,3.2,16.7,56.0,40.0,NNDA
+24292,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.5,18.4,3.6,3.2,15.5,60.0,53.0,MNC
+24293,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,23.3,17.4,3.3,3.0,15.3,52.0,43.0,MNC
+24294,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.1,18.0,3.9,2.8,17.0,56.0,44.0,MNC
+24295,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.5,19.8,3.9,3.1,17.8,60.0,55.0,MNC
+24296,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,26.7,19.9,3.7,3.1,16.0,63.0,55.0,MNC
+24297,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.4,17.5,3.5,2.6,16.8,53.0,42.0,MNC
+24298,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.6,19.9,3.5,2.7,15.9,58.0,50.0,MNC
+24299,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,22.9,18.2,3.5,2.7,15.6,59.0,51.0,MNC
+24300,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.7,19.2,3.7,2.9,16.5,59.0,53.0,MNC
+24301,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,23.4,18.2,3.5,2.8,15.7,53.0,43.0,MNC
+24302,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.8,20.0,3.8,2.8,16.0,61.0,53.0,MNC
+24303,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.0,18.5,3.9,2.8,16.0,61.0,54.0,MNC
+24304,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,25.3,18.6,3.5,2.8,15.8,61.0,54.0,MNC
+24305,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,21.8,15.8,3.8,2.6,15.0,51.0,42.0,MNC
+24306,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,22.0,16.5,3.5,2.9,14.9,54.0,44.0,MNC
+24307,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.0,17.8,3.8,2.9,15.5,52.0,42.0,MNC
+24308,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.6,18.4,3.6,2.9,16.0,56.0,42.0,MNC
+24309,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,26.6,19.7,3.6,3.1,15.5,59.0,54.0,MNC
+24310,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.3,18.0,4.0,2.6,16.0,55.0,42.0,MNC
+24311,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,U,0,United Republic of Tanzania,24.0,16.9,3.2,2.6,14.8,55.0,43.0,MNC
+24312,AVIBASE-EE79A5EF,Cyanomitra olivacea,Cyanomitra olivacea,2,Field1,F,0,Zambia,23.9,17.0,4.4,3.7,15.8,59.0,43.0,MFZ
+26583,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,1,NHMUK,M,0,Peru,15.8,8.0,2.1,4.3,20.7,70.0,60.0,HM
+26584,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,1,NHMUK,F,0,Peru,14.8,7.6,2.3,4.1,20.8,63.0,53.0,HM
+26585,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,1,NHMUK,F,0,Peru,15.2,8.0,2.2,4.3,18.4,66.5,57.0,HM
+26586,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,1,NHMUK,M,0,Peru,15.7,8.2,2.2,4.0,19.8,68.0,56.5,HM
+26594,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.1,7.4,2.6,4.2,21.3,64.0,56.0,ML
+26595,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,15.8,7.9,1.9,3.9,21.5,63.0,55.0,GAJ
+26596,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.9,7.1,1.9,3.4,20.6,68.0,58.0,GAJ
+26597,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.6,7.8,2.2,3.7,23.3,68.0,61.0,GAJ
+26598,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.0,8.1,2.3,3.6,20.5,66.0,57.0,GAJ
+26599,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.2,8.1,2.4,3.8,21.5,65.0,54.0,GAJ
+26600,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.1,7.9,2.1,2.5,19.6,65.0,57.0,GAJ
+26601,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.4,7.6,2.6,3.7,20.7,69.0,65.0,GAJ
+26602,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.3,8.0,2.6,4.3,20.9,59.0,54.0,GAJ
+26603,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,7.7,2.3,4.0,21.3,63.0,53.0,GAJ
+26604,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.6,8.5,2.3,3.9,21.4,63.0,55.0,GAJ
+26605,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,7.2,2.3,3.7,22.2,68.0,54.0,GAJ
+26606,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.7,7.5,2.4,3.7,21.0,61.0,53.0,GAJ
+26607,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.9,8.2,2.4,4.2,21.5,63.0,55.0,GAJ
+26608,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.7,8.0,2.3,3.6,21.1,62.0,52.0,GAJ
+26609,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.6,7.9,2.3,3.8,20.0,61.0,54.0,GAJ
+26610,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.4,8.1,2.2,3.6,20.9,63.0,56.0,GAJ
+26611,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.4,7.0,2.6,4.1,20.6,65.0,59.0,GAJ
+26612,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.7,7.2,2.2,3.6,20.0,62.0,56.0,GAJ
+26613,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.7,7.8,2.6,3.8,21.4,63.0,53.0,GAJ
+26614,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.7,7.1,2.4,3.7,20.4,61.0,54.0,GAJ
+26615,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,11.6,7.4,2.5,4.5,20.0,65.0,61.0,GAJ
+26616,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.1,8.3,2.4,4.0,19.8,60.0,52.0,GAJ
+26617,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.3,7.5,3.2,4.1,20.7,64.0,55.0,CT
+26618,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.7,8.7,2.1,3.9,22.1,63.0,58.0,ML
+26619,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.3,8.4,1.9,3.6,21.7,65.5,56.5,ML
+26620,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,14.4,8.0,2.1,3.8,21.3,60.0,57.0,CT
+26622,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.2,7.8,2.2,3.9,21.6,64.5,57.5,CT
+26623,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.9,7.7,2.4,4.4,22.0,65.0,56.5,ML
+26624,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,15.9,8.5,2.8,4.2,21.7,66.0,57.0,CT
+26625,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.2,7.5,2.4,4.5,22.7,70.0,63.0,CT
+26626,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.5,8.3,2.6,4.0,21.0,64.5,58.0,CT
+26627,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.8,8.2,2.5,4.3,22.5,62.0,55.0,CT
+26628,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.0,8.3,2.5,4.0,22.8,64.0,56.0,ML
+26629,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.4,8.2,2.2,4.1,22.5,65.0,58.5,ML
+26630,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.6,7.8,2.4,3.6,22.1,64.0,57.0,ML
+26631,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.9,7.5,2.5,4.1,21.2,64.0,56.0,ML
+26632,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.7,8.4,2.2,3.9,21.6,63.0,57.0,CT
+26633,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.2,8.0,2.5,4.0,22.2,66.0,60.5,RBL
+26634,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.7,8.5,2.5,4.5,21.7,64.0,58.0,RBL
+26635,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.3,8.0,2.5,4.1,20.6,63.0,55.0,RBL
+26636,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.6,7.7,2.4,4.0,22.4,63.5,59.0,ML
+26637,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.7,7.7,2.2,4.1,20.0,61.0,55.0,ML
+26638,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,7.7,2.3,4.0,20.9,62.0,58.0,ML
+26640,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.2,8.3,2.3,4.2,22.9,67.0,61.5,ML
+26642,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.0,8.0,2.5,4.4,22.4,67.0,60.5,ML
+26643,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.3,8.5,2.2,3.9,23.2,62.0,57.0,CT
+26644,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.0,7.7,2.5,4.0,22.6,66.0,57.0,ML
+26645,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.8,8.2,2.4,4.2,23.0,72.0,64.0,ML
+26646,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,11.0,7.3,2.3,3.9,20.8,63.0,58.0,ML
+26647,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,14.3,8.3,2.4,4.2,21.1,64.0,56.0,ML
+26648,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,8.0,2.5,4.2,21.8,69.0,63.0,ML
+26649,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.2,8.2,2.3,4.2,23.1,68.0,60.5,CT
+26650,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.4,7.8,2.5,4.2,22.9,69.0,62.5,ML
+26651,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.6,7.9,2.8,4.3,22.1,66.0,59.5,ML
+26652,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,15.6,8.7,2.5,4.4,23.5,65.0,58.5,ML
+26653,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.6,7.9,2.5,4.1,22.1,61.0,56.5,ML
+26654,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.3,8.2,2.5,4.3,22.2,66.0,59.0,CT
+26655,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.8,7.7,2.4,4.2,22.6,65.0,60.5,CT
+26656,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.2,8.0,2.4,4.0,21.3,62.0,59.0,ML
+26657,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.2,8.4,2.3,4.3,22.2,64.0,60.5,ML
+26658,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,12.3,8.2,2.5,4.0,21.7,62.0,54.5,ML
+26659,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.3,8.0,3.4,4.8,19.7,62.0,54.0,GAJ
+26661,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,7.9,2.7,3.9,22.5,72.0,64.0,GAJ
+26662,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.0,7.8,2.5,4.4,22.0,67.0,55.0,ML
+26663,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.4,7.7,2.7,4.3,22.1,63.0,65.0,ML
+26664,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.0,7.3,1.9,3.1,20.5,62.0,55.0,CT
+26666,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.2,7.1,1.9,3.5,20.7,66.0,57.5,CT
+26667,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.9,8.5,2.1,3.9,21.5,70.0,65.0,BD
+26668,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.5,7.9,2.1,3.7,21.6,69.0,63.0,BD
+26669,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,14.0,7.7,2.6,4.0,22.1,71.5,65.0,RBL
+26670,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.7,7.5,2.0,3.8,22.1,65.0,56.0,RBL
+26671,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.0,8.6,1.9,3.8,21.2,67.0,59.5,RBL
+26672,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.3,7.5,1.9,3.7,20.2,61.0,53.0,GAJ
+26673,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.1,8.1,2.0,3.7,20.8,66.0,62.0,GAJ
+26674,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,7.8,2.0,3.7,22.0,67.0,61.0,GAJ
+26675,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.6,7.8,1.9,3.5,20.4,65.0,55.0,GAJ
+26676,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.8,7.8,2.3,3.6,21.5,64.0,58.0,GAJ
+26678,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,15.9,7.5,1.9,3.3,21.0,64.0,57.0,GAJ
+26679,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,14.5,8.9,2.4,3.7,19.8,62.0,56.0,GAJ
+26680,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.5,7.8,2.5,3.7,22.6,66.0,63.0,GAJ
+26681,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.7,7.5,2.6,3.6,21.8,63.0,55.0,GAJ
+26682,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,7.8,2.4,3.7,21.4,66.0,58.0,GAJ
+26683,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.3,8.0,2.5,3.8,20.7,65.0,54.0,GAJ
+26684,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,8.4,2.6,3.8,21.4,65.0,55.0,GAJ
+26685,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.4,8.0,2.6,3.5,21.3,69.0,58.0,GAJ
+26686,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.4,8.0,2.7,4.2,21.3,64.0,52.0,GAJ
+26687,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.7,7.4,2.6,3.6,21.1,69.0,59.0,GAJ
+26688,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,9.0,2.5,3.9,20.3,69.0,62.0,GAJ
+26689,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,8.4,2.5,3.8,21.0,66.0,56.0,GAJ
+26690,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.0,8.1,2.5,3.8,21.0,65.0,60.0,GAJ
+26691,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.5,8.0,2.3,3.8,21.8,62.0,58.0,GAJ
+26692,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,12.7,7.2,2.3,3.6,20.6,65.0,56.0,GAJ
+26693,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.6,8.0,2.5,4.5,20.0,62.0,51.0,GAJ
+26694,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,0,Peru,13.5,7.5,2.9,4.6,19.5,62.0,58.0,GAJ
+26695,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,15.3,8.7,2.1,4.0,22.9,64.5,55.0,CT
+26696,AVIBASE-C77C89B2,Diglossa brunneiventris,Diglossa brunneiventris,2,Field1,U,1,Peru,13.2,7.4,2.1,3.7,21.0,61.0,53.0,CT
+26749,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,M,0,Colombia,16.8,10.3,3.2,4.4,21.7,68.0,51.0,AMGZ
+26750,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,F,0,Colombia,17.4,10.7,3.2,5.0,21.2,71.0,57.0,AMGZ
+26751,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,M,0,Colombia,17.0,11.1,3.0,4.6,21.5,76.0,60.0,AMGZ
+26752,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,M,0,Peru,22.1,11.8,3.1,5.2,21.2,86.0,69.0,HM
+26753,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,F,0,Peru,18.0,11.6,3.1,4.9,20.5,74.0,59.0,HM
+26754,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,F,0,Peru,17.9,10.7,3.1,5.0,18.6,76.0,62.0,HM
+26755,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,M,0,Bolivia,19.2,10.8,2.8,4.8,20.1,75.0,62.0,HM
+26756,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,1,NHMUK,F,0,Colombia,17.9,10.8,3.2,5.1,21.6,70.0,56.0,AMGZ
+26784,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.1,11.0,3.6,4.9,23.2,80.0,65.0,GAJ
+26786,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,1,Peru,18.6,10.0,3.6,4.9,23.2,72.0,59.0,CT
+26788,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.9,11.8,2.7,4.3,23.1,73.0,64.0,CT
+26789,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.4,10.7,3.5,5.4,23.1,75.5,63.0,ML
+26790,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.2,11.9,3.3,4.9,24.7,80.0,68.0,GAJ
+26791,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.7,11.8,3.2,4.9,25.0,81.0,71.0,CT
+26792,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.1,11.0,3.4,5.1,21.5,75.0,62.0,ML
+26793,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,1,Peru,20.1,10.7,3.6,4.9,24.9,72.5,62.0,CT
+26794,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.7,11.2,3.7,4.9,24.4,73.0,65.0,RBL
+26797,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.3,11.3,3.4,5.3,24.2,74.0,66.0,CT
+26798,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.6,11.9,3.5,5.2,24.4,77.5,67.0,CT
+26799,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.9,11.5,3.5,5.1,22.8,71.0,62.0,CT
+26800,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.9,11.2,2.8,5.0,24.4,79.0,70.0,GAJ
+26801,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.2,10.8,3.1,4.8,23.8,82.0,74.0,GAJ
+26802,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.6,12.3,3.0,4.7,22.8,72.0,64.0,GAJ
+26803,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.3,10.9,3.1,4.7,22.7,72.0,63.0,GAJ
+26804,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.8,11.6,3.0,4.8,22.1,78.0,65.0,GAJ
+26805,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.8,10.8,3.0,5.0,22.1,80.0,60.0,GAJ
+26806,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.0,9.8,3.0,5.0,21.9,75.0,67.0,GAJ
+26807,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.3,11.0,3.2,5.1,22.5,71.0,62.0,GAJ
+26808,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,21.1,11.4,3.5,5.0,24.0,72.0,62.0,ML
+26809,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,20.1,13.0,3.5,4.9,23.4,78.0,68.0,CT
+26810,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.3,11.8,3.8,5.0,23.5,73.0,63.0,CT
+26811,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.9,11.9,3.9,5.4,23.7,70.0,61.0,ML
+26813,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.5,11.3,3.5,5.0,23.8,70.0,62.5,ML
+26814,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.9,11.5,3.4,5.2,23.8,78.0,66.0,ML
+26815,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.0,11.0,3.4,5.4,24.9,73.0,63.0,ML
+26817,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.1,12.0,3.5,5.1,24.9,79.0,68.0,ML
+26818,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.0,11.0,3.4,5.0,23.0,71.0,62.5,CT
+26819,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,15.9,10.6,3.8,5.2,24.2,70.0,64.0,ML
+26820,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.2,11.5,3.6,5.0,25.2,78.0,68.5,ML
+26821,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.2,11.3,2.5,5.2,24.2,78.0,70.0,CT
+26822,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,21.7,12.4,3.0,5.1,23.8,80.0,72.0,CT
+26823,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.5,11.8,2.9,4.8,23.7,74.0,64.0,CT
+26824,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.4,11.1,3.0,4.8,23.7,78.0,68.5,BD
+26825,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.4,11.9,3.1,5.0,23.1,79.0,70.5,BD
+26826,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.8,11.9,2.9,4.8,24.0,77.0,67.0,BD
+26827,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.8,11.6,2.8,4.6,23.1,83.0,69.0,CT
+26828,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,19.6,10.5,2.8,4.9,23.9,78.0,62.0,GAJ
+26829,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,21.1,12.2,3.0,4.9,23.3,78.0,70.0,GAJ
+26830,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,18.9,11.3,3.3,4.9,24.1,70.5,63.0,ML
+26831,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.9,12.0,2.9,5.0,23.9,79.0,68.0,CT
+26832,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,1,Peru,20.0,11.8,3.7,5.0,24.1,70.5,64.5,CT
+26833,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,16.0,11.0,3.2,4.9,23.9,78.0,66.0,SS
+26834,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.4,12.2,3.7,4.0,17.9,80.0,71.0,GAJ
+26836,AVIBASE-480CCA00,Diglossa cyanea,Diglossa cyanea,2,Field1,U,0,Peru,17.5,11.7,3.2,4.7,22.4,71.0,62.0,GAJ
+28497,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,1,NHMUK,M,0,Peru,11.7,6.9,4.3,3.5,18.7,77.0,74.0,SEIJ
+28499,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,1,NHMUK,F,0,Ecuador,12.2,6.7,4.3,3.8,19.3,74.0,70.0,SEIJ
+28500,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,1,NHMUK,M,0,Ecuador,11.6,6.9,4.1,3.3,16.7,72.0,68.0,SEIJ
+28501,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,1,NHMUK,F,0,Ecuador,11.5,6.7,4.8,3.2,19.4,76.0,70.0,SEIJ
+28502,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.9,6.4,3.7,3.4,18.9,70.5,65.0,RBL
+28503,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.4,6.6,3.4,3.2,18.4,75.0,73.0,BD
+28504,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.9,6.3,3.5,3.2,17.6,83.0,69.0,BD
+28505,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.8,6.7,3.4,3.2,18.3,76.0,74.0,BD
+28506,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.7,6.6,3.3,3.1,18.6,80.0,73.0,BD
+28507,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.2,6.2,4.3,3.2,16.6,69.0,68.0,BD
+28508,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.6,6.4,3.6,3.0,16.8,74.0,69.0,BD
+28509,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.5,5.8,3.5,3.0,16.0,76.0,67.0,BD
+28510,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.0,5.6,3.3,3.0,16.6,72.0,62.0,BD
+28511,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.9,5.8,4.0,3.2,19.2,74.0,67.0,BD
+28512,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.4,5.7,3.1,2.7,16.8,75.0,70.0,BD
+28513,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.9,6.3,3.4,3.3,16.7,75.0,69.0,BD
+28514,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,10.4,6.1,3.8,3.2,16.1,68.0,61.0,BD
+28515,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,10.9,5.0,3.5,3.0,17.5,80.0,73.0,BD
+28517,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.5,6.5,3.4,3.1,17.0,77.0,70.0,SS
+28518,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,15.7,6.9,3.2,3.6,17.3,71.5,67.5,CT
+28519,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.6,6.4,3.9,3.1,18.4,74.5,69.5,CT
+28520,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.5,6.1,3.7,3.2,17.7,74.0,73.5,CT
+28521,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.5,6.0,3.5,3.1,17.8,72.0,68.5,CT
+28522,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,14.2,7.1,3.9,3.3,18.4,74.5,69.0,ML
+28523,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.6,6.1,3.9,3.2,18.2,72.0,67.5,CT
+28524,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.4,6.4,3.7,3.3,18.0,77.0,72.0,CT
+28525,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.7,6.5,3.5,3.2,18.7,77.0,71.0,CT
+28526,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.3,6.4,3.8,3.2,18.3,73.0,70.5,CT
+28528,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.3,6.2,4.0,3.2,19.0,75.5,73.0,CT
+28529,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.0,5.9,3.3,3.2,16.2,61.0,65.0,ML
+28530,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.3,6.3,3.8,3.3,18.0,76.0,71.5,ML
+28532,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.8,6.3,3.9,3.3,18.5,71.0,68.0,CT
+28533,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.5,5.8,3.5,2.9,16.8,69.0,64.5,ML
+28534,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.8,6.9,3.7,3.2,19.0,72.5,65.0,ML
+28535,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.0,6.0,3.0,3.0,16.9,80.0,69.0,BD
+28536,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.6,5.8,4.0,3.2,18.1,74.0,65.0,BD
+28537,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.4,6.3,3.3,3.1,17.5,73.0,69.5,CS
+28538,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.7,6.4,3.2,3.0,17.6,76.5,72.0,CS
+28539,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.5,6.9,3.5,3.1,17.0,71.0,70.0,BD
+28540,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.2,6.7,3.6,2.9,17.2,72.0,68.0,BD
+28541,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.1,5.9,3.2,3.0,17.5,72.0,68.0,BD
+28542,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.9,6.1,3.4,3.0,16.9,73.0,69.0,BD
+28543,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.2,5.9,2.9,2.8,17.7,71.0,70.0,BD
+28544,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.3,5.8,3.3,2.8,17.3,76.0,70.0,BD
+28545,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,14.0,6.6,3.1,3.0,17.3,76.0,69.0,BD
+28546,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.3,6.0,3.0,2.8,17.5,73.0,68.0,BD
+28547,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.2,6.3,3.1,3.0,16.5,69.0,65.0,BD
+28548,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.9,6.6,3.1,3.0,17.8,71.0,67.0,BD
+28549,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.1,6.6,3.0,3.0,17.8,70.0,67.0,BD
+28550,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.4,6.4,3.0,3.0,17.5,79.0,76.0,BD
+28551,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,13.4,6.7,3.1,3.2,17.5,83.0,69.0,BD
+28552,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,11.7,5.9,2.7,2.7,15.3,73.0,69.0,BD
+28553,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.3,6.0,2.9,2.7,17.4,71.5,67.0,BD
+28555,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.8,6.3,3.3,3.1,17.3,70.0,65.5,BD
+28556,AVIBASE-A443B64D,Elaenia pallatangae,Elaenia pallatangae,2,Field1,U,0,Peru,12.6,5.5,4.5,3.2,16.9,76.0,70.0,BD
+31892,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,1,AMNH,M,0,Cameroon,14.3,7.8,4.1,4.6,19.0,75.0,73.5,CS
+31893,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,1,AMNH,M,0,Cameroon,14.6,8.4,4.4,4.8,18.9,77.5,73.0,CS
+31894,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,1,AMNH,F,0,Cameroon,13.4,7.9,4.2,4.0,18.3,73.5,81.0,CS
+31895,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,1,AMNH,F,0,Cameroon,13.0,7.5,4.1,4.2,16.6,71.0,67.0,CS
+31962,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,14.9,8.6,5.4,4.2,22.1,72.0,74.0,NNDA
+31964,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,15.5,8.6,5.1,4.4,20.6,78.0,78.0,NNDA
+31965,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.8,7.5,3.5,4.1,21.5,78.0,69.0,NNDA
+31966,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.2,7.8,5.2,4.2,21.1,71.5,67.0,NNDA
+31967,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.2,7.7,4.8,4.8,21.2,69.0,71.0,NNDA
+31968,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,12.9,8.5,4.2,4.3,21.1,75.0,73.0,NNDA
+31969,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,15.2,9.0,5.9,4.6,19.4,75.0,71.0,NNDA
+31970,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,8.6,5.2,4.4,18.6,75.0,70.0,NNDA
+31971,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.1,8.6,4.5,4.6,20.4,78.0,72.0,NNDA
+31972,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.8,7.8,4.7,4.2,21.9,72.0,70.0,NNDA
+31973,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,8.0,5.9,4.7,19.7,71.0,70.0,NNDA
+31974,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,13.5,8.6,4.6,4.5,20.7,71.0,69.0,NNDA
+31975,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.3,8.2,4.2,4.3,20.9,76.0,65.0,NNDA
+31976,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.3,8.8,5.6,4.7,20.2,75.0,70.0,NNDA
+31977,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.6,8.6,5.5,4.6,21.6,73.0,69.0,NNDA
+31978,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,11.8,7.6,5.0,4.1,20.0,70.0,65.0,NNDA
+31979,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.3,7.5,5.5,4.6,21.9,75.0,71.0,NNDA
+31980,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.2,8.6,4.2,4.4,18.6,70.0,65.0,NNDA
+31981,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,8.5,4.8,4.6,23.2,74.0,70.0,NNDA
+31982,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,8.9,4.3,4.5,19.2,72.0,65.0,NNDA
+31983,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.2,8.4,4.8,4.7,19.2,78.0,71.0,NNDA
+31984,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.8,8.5,4.8,4.7,19.2,72.0,67.0,NNDA
+31985,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.9,8.4,4.7,4.5,19.4,73.0,66.0,NNDA
+31987,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.8,7.7,4.7,4.4,21.5,75.0,71.0,NNDA
+31988,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,13.7,8.2,5.7,4.7,21.2,72.0,71.0,NNDA
+31989,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,13.5,8.7,5.6,4.6,22.3,74.0,73.0,NNDA
+31990,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,7.8,5.0,4.4,21.5,73.0,68.0,NNDA
+31991,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.3,8.8,6.0,4.2,20.5,72.0,70.0,NNDA
+31992,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.6,8.3,5.0,4.5,22.1,75.0,71.0,NNDA
+31993,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.8,8.0,5.3,4.3,19.4,69.0,63.0,NNDA
+31994,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,13.9,8.3,5.0,4.6,21.6,72.0,73.0,NNDA
+31995,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.6,8.6,4.8,4.2,20.5,72.0,70.0,NNDA
+31996,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,12.5,8.0,4.9,4.3,20.4,67.0,62.0,NNDA
+31997,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,12.9,8.9,4.3,4.2,21.5,73.0,62.0,NNDA
+31998,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,11.9,9.2,4.0,4.4,20.3,77.0,72.0,NNDA
+31999,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,11.8,8.6,4.2,4.0,22.4,70.0,70.0,NNDA
+32000,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.4,8.1,4.7,4.0,19.9,71.0,63.0,NNDA
+32001,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,11.3,8.3,4.2,4.1,18.7,68.0,70.0,NNDA
+32002,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.6,8.1,5.0,4.4,20.3,74.0,68.0,NNDA
+32003,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.2,8.6,4.9,4.8,20.6,76.0,75.0,NNDA
+32004,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.0,9.0,5.0,4.2,20.5,75.0,73.0,NNDA
+32005,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,13.9,8.2,5.1,4.3,22.9,75.0,72.0,NNDA
+32007,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,11.6,7.8,4.1,4.5,23.0,71.0,70.0,NNDA
+32008,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,15.0,8.5,4.9,4.4,24.4,76.0,74.0,NNDA
+32009,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.6,8.4,5.0,4.6,23.7,75.0,73.0,NNDA
+32010,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,Ghana,14.1,8.2,4.8,4.2,22.9,72.0,68.0,NNDA
+32011,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,1,Ghana,15.0,8.8,5.3,4.4,22.2,77.0,76.0,NNDA
+32020,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.5,7.8,4.4,3.9,20.0,84.0,80.0,MNC
+32021,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.5,6.7,4.3,3.8,20.8,77.0,76.0,MNC
+32022,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.3,7.0,4.6,4.1,20.0,80.0,80.0,MNC
+32023,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.7,7.0,4.9,4.0,21.0,80.0,75.0,MNC
+32024,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.5,6.5,3.9,3.9,20.8,77.0,76.0,MNC
+32025,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.2,6.8,4.0,4.0,20.3,76.0,76.0,MNC
+32026,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.4,6.7,4.2,3.8,19.7,78.0,74.0,MNC
+32027,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.3,7.2,4.5,4.3,20.6,80.0,77.0,MNC
+32028,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.5,8.0,4.1,4.2,20.5,78.0,77.0,MNC
+32029,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,12.9,6.5,4.0,3.9,19.7,75.0,73.0,MNC
+32030,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.4,6.7,4.0,3.7,20.3,76.0,75.0,MNC
+32031,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.3,7.9,4.3,4.2,22.0,86.0,79.0,MNC
+32032,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.8,7.8,4.2,3.9,20.8,81.0,74.0,MNC
+32033,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.8,8.3,4.6,4.1,20.7,80.0,72.0,MNC
+32034,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.6,6.5,4.3,3.9,20.3,73.0,77.0,MNC
+32035,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.5,7.4,3.8,4.0,21.0,85.0,82.0,MNC
+32036,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.2,7.6,4.5,4.1,21.3,81.0,82.0,MNC
+32037,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,14.5,7.4,4.1,4.1,20.0,82.0,80.0,MNC
+32038,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.6,7.5,4.6,4.1,20.0,79.0,78.0,MNC
+32039,AVIBASE-3413C42C,Eurillas virens,Eurillas virens,2,Field1,U,0,United Republic of Tanzania,13.9,7.4,3.6,4.0,21.5,84.0,79.0,MNC
+50020,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,1.0,NHMUK,M,0.0,Peru,13.5,8.7,4.0,4.0,16.3,70.0,57.0,NJTA
+50021,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,1.0,NHMUK,M,0.0,Peru,12.1,7.8,3.5,3.7,17.6,61.0,51.3,NJTA
+50022,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,1.0,NHMUK,F,0.0,Peru,11.4,8.2,3.8,3.2,16.8,61.0,52.0,NJTA
+50036,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.4,7.8,4.2,3.2,16.7,61.0,41.0,GAJ
+50037,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,16.2,8.0,4.5,3.3,17.9,64.0,51.5,ML
+50038,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.2,7.2,4.2,3.3,17.0,63.5,57.0,ML
+50039,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.1,8.0,3.8,3.1,16.3,65.0,52.0,MJ
+50040,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.8,7.1,3.7,3.1,16.9,63.0,44.0,MJ
+50041,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.1,7.2,3.8,3.1,16.8,66.0,54.0,MJ
+50042,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.2,7.2,3.8,3.4,18.0,71.0,56.0,MJ
+50043,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.6,6.9,3.8,3.1,17.0,63.0,52.0,MJ
+50044,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.3,7.1,3.9,3.3,17.2,60.0,49.0,MJ
+50045,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.0,8.3,4.1,3.3,18.2,73.0,58.0,MJ
+50046,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.6,8.2,4.0,3.2,16.9,69.0,56.0,MJ
+50047,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,15.8,8.0,4.8,3.8,17.9,71.0,59.0,MJ
+50048,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,13.3,7.2,4.5,3.2,16.4,62.0,42.0,MJ
+50049,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,12.0,9.3,5.4,4.0,17.5,76.0,58.0,RBL
+50050,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,11.7,8.0,4.2,3.2,18.3,70.2,54.0,ML
+50051,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.5,7.8,3.6,3.2,16.9,64.0,51.0,SS
+50052,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.7,7.9,4.0,3.3,18.3,67.0,53.0,SS
+50053,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.5,7.8,3.7,3.1,17.0,63.0,48.0,BD
+50054,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.2,7.8,3.9,3.1,17.2,63.0,49.0,GAJ
+50055,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.6,7.8,3.6,3.2,18.5,70.0,52.0,GAJ
+50056,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.8,7.9,3.6,3.0,17.5,65.0,53.0,MJ
+50057,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.9,7.2,3.7,3.3,18.5,71.0,57.0,MJ
+50058,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.1,7.3,3.8,3.0,16.9,62.0,50.0,MJ
+50059,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.5,8.0,4.1,3.2,17.9,69.0,54.0,MJ
+50060,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.5,7.2,3.5,3.1,17.1,64.0,51.0,MJ
+50061,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.5,7.2,3.5,3.0,17.2,63.0,49.0,BD
+50062,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,11.9,7.8,3.8,3.3,16.5,62.0,51.0,BD
+50063,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.4,8.3,4.5,3.8,16.2,72.5,55.0,CT
+50064,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.9,7.6,4.8,3.6,17.6,72.0,54.0,CT
+50065,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.9,8.3,4.4,3.5,18.6,75.0,57.0,RBL
+50066,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.9,7.8,4.5,3.7,17.4,72.0,55.0,ML
+50067,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,16.0,8.4,5.0,3.6,17.6,73.0,56.5,ML
+50068,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.2,8.2,4.8,3.7,18.4,71.5,56.0,ML
+50069,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.2,7.8,3.8,3.5,18.6,71.0,60.0,CT
+50070,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.5,7.4,4.4,3.4,16.8,72.5,56.5,CT
+50071,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.3,8.0,4.0,3.5,18.9,74.0,60.0,CT
+50072,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.1,8.3,4.0,3.4,17.9,73.0,54.0,CT
+50073,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,10.8,8.2,3.8,3.4,17.6,67.0,64.0,CT
+50074,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.2,8.5,4.3,3.5,17.3,70.0,59.0,CT
+50075,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,17.7,8.6,4.2,3.3,18.8,69.5,56.0,CT
+50076,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,16.6,8.9,4.4,3.5,18.2,71.0,57.5,CT
+50077,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,15.5,8.1,4.4,3.4,16.9,64.0,50.5,CT
+50078,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,15.9,8.1,4.0,3.2,18.0,61.5,48.0,ML
+50079,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.3,8.8,4.5,3.5,17.9,71.0,57.5,ML
+50080,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,16.9,8.1,4.2,3.5,18.5,72.5,57.0,ML
+50081,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.7,8.3,4.9,3.6,18.8,71.0,57.0,ML
+50083,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.0,8.2,4.5,3.4,18.2,71.0,55.5,ML
+50084,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.5,8.3,4.6,3.5,18.6,69.0,56.0,ML
+50085,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.9,8.3,4.9,3.5,18.9,71.0,58.0,CT
+50086,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,14.3,8.0,4.2,3.4,18.3,63.0,51.0,CT
+50087,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,15.1,8.0,4.3,3.5,19.4,66.0,53.5,CT
+50088,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.5,8.6,4.8,3.3,19.1,69.0,55.0,CT
+50089,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,16.8,8.4,4.7,3.5,19.4,73.0,56.0,CT
+50090,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.9,7.2,4.7,3.5,16.9,62.0,49.0,CT
+50091,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,18.4,8.7,4.5,3.5,18.4,71.5,56.0,CT
+50092,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.2,8.7,4.4,3.5,18.7,69.0,55.5,ML
+50093,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,13.8,7.8,4.2,3.2,17.4,62.0,50.0,CT
+50094,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.1,7.5,4.0,3.6,18.9,68.0,55.0,CT
+50095,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,15.8,8.8,4.4,3.3,18.5,71.5,58.0,ML
+50096,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.7,7.4,4.4,3.4,17.5,64.5,51.0,CT
+50097,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.6,8.3,4.2,3.7,17.4,71.5,57.5,CT
+50098,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,12.9,7.7,3.9,3.3,17.0,65.0,52.0,RBL
+50099,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.6,8.3,4.2,3.4,17.4,64.0,51.5,ML
+50100,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.2,7.7,4.1,3.5,16.9,64.0,51.0,ML
+50101,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.3,7.9,3.8,3.0,17.1,62.0,51.0,ML
+50102,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.7,7.7,4.2,3.2,17.9,62.0,50.0,ML
+50103,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.3,8.0,4.4,3.5,18.5,69.0,58.0,ML
+50104,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.5,8.0,4.0,3.4,17.6,62.0,52.0,RBL
+50105,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.7,8.0,3.9,3.5,18.5,68.0,55.5,RBL
+50106,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,14.3,8.1,4.3,3.3,17.8,63.0,48.0,ML
+50107,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.0,7.7,4.1,3.3,17.9,61.0,49.0,ML
+50108,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.5,7.9,4.0,3.4,18.4,71.0,57.0,ML
+50109,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.9,7.5,3.9,3.2,17.7,63.0,50.5,ML
+50110,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.6,8.3,4.1,3.5,16.7,62.0,50.0,RBL
+50111,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,14.7,8.1,4.3,3.5,18.8,69.0,54.5,ML
+50112,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,16.0,9.8,5.1,3.8,16.1,72.0,59.0,BD
+50113,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,13.2,7.1,4.9,3.5,16.5,64.0,52.0,BD
+50114,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,15.0,8.0,4.9,3.8,18.4,72.0,55.0,BD
+50115,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,17.5,8.6,4.3,3.4,12.5,62.0,49.0,BD
+50116,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,U,0.0,Peru,14.9,7.8,3.9,3.1,19.0,68.0,62.0,BD
+50117,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,1.0,Peru,13.6,7.2,3.8,3.0,17.3,65.0,50.0,BD
+50119,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,14.8,8.5,4.8,3.3,17.8,66.0,53.0,ML
+50120,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,M,0.0,Peru,16.8,8.2,3.9,3.4,17.2,70.0,59.0,CT
+50121,AVIBASE-9A4AE6AE,Mionectes striaticollis,Mionectes striaticollis,2.0,Field1,F,0.0,Peru,13.2,7.8,3.6,3.4,16.5,62.5,49.0,BD
+62557,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,F,0.0,United Republic of Tanzania,17.7,9.2,3.3,3.9,19.8,80.0,86.0,CV
+62558,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,F,0.0,United Republic of Tanzania,16.2,8.7,3.3,3.6,19.8,73.0,75.0,CV
+62559,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,F,0.0,Democratic Republic of the Congo,17.5,9.0,3.8,4.0,20.3,87.0,87.0,CV
+62560,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,M,0.0,United Republic of Tanzania,19.4,10.5,3.7,4.3,20.9,86.0,84.0,CV
+62561,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,M,0.0,United Republic of Tanzania,20.4,11.2,3.5,4.5,19.7,88.0,86.0,CV
+62562,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,M,0.0,Zimbabwe,19.7,11.2,4.0,4.6,19.9,92.0,96.0,CV
+62563,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,M,0.0,Angola,19.4,11.3,4.0,4.5,23.4,88.0,92.0,CV
+62564,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,1.0,NHMUK,F,0.0,Angola,18.3,9.9,4.1,4.3,21.3,85.0,84.0,CV
+62576,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,20.8,10.5,4.1,4.6,23.4,81.0,76.0,MNC
+62577,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,20.9,11.1,3.7,4.3,22.8,86.0,81.0,MNC
+62578,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,20.0,10.4,3.9,4.3,23.7,83.0,82.0,MNC
+62579,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,21.7,12.5,4.0,4.4,23.1,84.0,84.0,MNC
+62580,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,17.6,9.4,3.7,3.8,22.1,74.0,82.0,MNC
+62581,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.4,10.3,4.5,4.2,23.8,74.0,74.0,MNC
+62582,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,18.8,10.5,3.9,4.1,23.5,73.0,73.0,MNC
+62583,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,21.0,11.4,4.3,4.4,23.6,77.0,79.0,MNC
+62584,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,20.3,11.0,4.3,4.5,24.3,80.0,81.0,MNC
+62585,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,17.4,9.5,4.0,3.8,22.4,73.0,72.0,MNC
+62586,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.2,10.1,4.2,4.6,23.6,75.0,76.0,MNC
+62587,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,23.0,11.0,3.8,3.7,23.2,84.0,83.0,MNC
+62588,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.1,9.9,3.7,4.0,22.4,76.0,77.0,MNC
+62589,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,18.9,10.0,3.9,3.8,21.9,74.0,77.0,MNC
+62590,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,21.1,11.1,3.8,4.5,23.6,83.0,82.0,MNC
+62591,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.3,10.0,3.5,4.0,22.7,74.0,73.0,MNC
+62592,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,21.2,11.2,4.0,4.3,24.7,82.0,82.0,MNC
+62593,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,21.4,14.4,4.2,4.5,24.1,81.0,80.0,MNC
+62594,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.9,11.4,3.8,4.8,23.4,84.0,80.0,MNC
+62595,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,United Republic of Tanzania,19.2,10.8,3.9,4.5,23.3,85.0,85.0,MNC
+62596,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,18.5,10.3,4.3,4.3,23.8,83.0,96.0,MFZ
+62597,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,17.7,9.7,4.8,4.5,22.2,78.0,82.0,MFZ
+62598,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,20.2,11.3,4.8,4.7,24.4,92.0,94.0,MFZ
+62599,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,17.0,9.8,4.2,4.5,23.3,81.0,92.0,MFZ
+62600,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,16.9,10.5,4.4,4.7,23.8,84.0,85.0,MFZ
+62601,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,18.9,10.9,4.2,5.0,23.8,88.0,87.0,MFZ
+62602,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,1.0,Zambia,16.3,9.3,4.5,4.6,22.8,77.0,81.0,MFZ
+62603,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,17.8,10.3,4.2,4.4,23.8,87.0,96.0,MFZ
+62604,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,18.5,11.5,4.4,4.9,23.3,87.0,84.0,MFZ
+62605,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,15.7,10.2,4.4,4.5,22.7,82.0,84.0,MFZ
+62606,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,18.0,11.1,4.5,4.4,23.3,85.0,87.0,MFZ
+62607,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,20.0,11.8,4.6,5.3,24.7,94.0,95.0,MFZ
+62608,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,17.8,10.6,3.8,5.1,22.7,82.0,86.0,MFZ
+62609,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,16.7,10.9,4.7,4.4,25.2,93.0,96.0,MFZ
+62610,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,18.0,10.8,4.3,4.8,26.3,87.0,93.0,MFZ
+62611,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,19.2,12.1,5.0,4.8,24.5,90.0,92.0,MFZ
+62612,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,19.3,10.7,4.9,4.9,24.2,87.0,87.0,MFZ
+62613,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,18.8,12.7,4.4,5.2,25.0,96.0,97.0,MFZ
+62614,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,17.5,11.2,4.2,4.7,24.0,80.0,84.0,MFZ
+62615,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,19.5,11.3,5.0,4.7,24.3,95.0,93.0,MFZ
+62616,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,17.9,11.0,4.4,5.2,23.1,87.0,91.0,MFZ
+62617,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,19.1,12.8,5.2,5.2,26.1,93.0,97.0,MFZ
+62618,AVIBASE-24F71192,Phyllastrephus cabanisi,Phyllastrephus cabanisi,2.0,Field1,U,0.0,Zambia,15.9,10.7,4.3,4.5,24.4,85.0,83.0,MFZ
