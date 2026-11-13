@@ -5,12 +5,11 @@ Heloísa Fernandes Cano - T26
 
 O seguinte projeto consiste na segunda entrega da disciplina de Aprendizado de Máquina, ministrada pelo professor doutor Daniel Roberto Casar, durante o 2º semestre de 2026 no curso de Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciência.
 
-Arquivos:
-- MainTiamat_HeloisaCano.ipynb: Contém tudo o que foi desenvolvido no trabalho
-- AnaliseDados_Tiamat.ipynb: Apenas a parte de análise e limpeza dos dados do dataset
+O repositório conta com os seguintes arquivos:
+- MainTiamat_HeloisaCano.ipynb: Contém tudo o que foi desenvolvido no trabalho, em um notebook do python. Contém toda a parte do código, discussão dos modelos, discussão e análise exploratória dos dados. É o arquivo principal de todo o trabalho.
 - arquivos_dados:
-  - AVONET_Raw_Data: Arquivo 'cru'
-  - dados_limpos.csv: Arquivo limpo e filtrado, como utilizado nos modelos desenvolvidos
+  - AVONET_Raw_Data: Arquivo 'cru', disponibilizado pelo AVONET em: https://www.researchgate.net/publication/358829933_AVONET_morphological_ecological_and_geographical_data_for_all_birds
+  - dados_limpos.csv: Arquivo limpo e filtrado, como utilizado nos modelos desenvolvidos.
 
 <h2>Enunciado</h2>
 <h3>Objetivo</h3>
