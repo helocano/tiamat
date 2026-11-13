@@ -60,9 +60,10 @@ Descontos usuais da pontuação base:
 
 <h3>Pontuação complementar</h3>
 Pontuação complementar: 4 (cada item abaixo pode valer até no máximo 1 ponto, exceto quando escrito o contrário)
+
 - Comparou pelo menos 5 algoritmos/pipelines diferentes (sem contar o baseline)
 - Utilizou de forma correta validação cruzada para comparar diferentes algoritmos/pipelines
-Realizou redução de dimensionalidade ou seleção de atributos nos dados, permitindo que o optuna controlasse esse processo (isto é, otimizando os hiperparâmetros destas estratégias) (nota: é necessário ter pelo menos 20 atributos para optar por esta estratégia)
+- Realizou redução de dimensionalidade ou seleção de atributos nos dados, permitindo que o optuna controlasse esse processo (isto é, otimizando os hiperparâmetros destas estratégias) (nota: é necessário ter pelo menos 20 atributos para optar por esta estratégia)
 - Realizou a otimização de hiperparâmetros no HPC (necessário que os scripts utilizados, arquivo do job.sh do slurm e output do slurm façam parte do repositório)
 - Usou ferramenta de explicação de modelos (gráfico de dependência parcial, permutation importance, LIME ou SHAP) para extrair informações sobre o(s) modelo(s) selecionado(s), com devida discussão sobre o resultado e sobre como a ferramenta de explicação funciona
 - Fez alguma estratégia suficientemente interessante (e bem discutida na entrega) que não está contemplada nos demais itens
