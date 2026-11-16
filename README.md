@@ -6,10 +6,20 @@ Heloísa Fernandes Cano - T26
 O seguinte projeto consiste na segunda entrega da disciplina de Aprendizado de Máquina, ministrada pelo professor doutor Daniel Roberto Casar, durante o 2º semestre de 2026 no curso de Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciência.
 
 O repositório conta com os seguintes arquivos:
-- MainTiamat_HeloisaCano.ipynb: Contém tudo o que foi desenvolvido no trabalho, em um notebook do python. Contém toda a parte do código, discussão dos modelos, discussão e análise exploratória dos dados. É o arquivo principal de todo o trabalho.
+- MainTiamat_HeloisaCano.ipynb: Contém tudo o que foi desenvolvido no trabalho, em um notebook do python. Contém toda a parte do código, discussão dos modelos, discussão e análise exploratória dos dados. É o arquivo principal de todo o trabalho. É ele que você deve abrir e executar, para ver os resultados e a discussão deles.
 - arquivos_dados:
   - AVONET_Raw_Data: Arquivo 'cru', disponibilizado pelo AVONET em: https://www.researchgate.net/publication/358829933_AVONET_morphological_ecological_and_geographical_data_for_all_birds
   - dados_limpos.csv: Arquivo limpo e filtrado, como utilizado nos modelos desenvolvidos.
+ 
+<h2>Introdução</h2>
+O presente trabalho tem como objetivo comparar 7 modelsos para 7 algoritmos de aprendizado de máquina diferentes, com o objetivo de encontrar o modelo que prevê o comprimento da cauda de aves com a maior precisão. Durante o documento, discute-se os artibutos adotados, os dados do dataset, os modelos testados, dentre outras coisas. Esse trabalho é a segunda entrega da disciplina de aprendizado de máquina, ministrada no segundo semestre de 2026, para a Turma 26 da Ilum - Escola de Ciência. A entrega também recebe o carinhoso apelido de "Criatura Lendária 2: Tiamat). Disciplina ministrada pelo Professor Doutor Daniel Roberto Cassar.
+
+<h2>Conclusão</h2>
+Concluiu-se que o melhor modelo para o problema proposto é uma Floresta Aleatória, utilizando 287 árvores com o critério de squared_error, max_depth de 11, mínimo de amostras para split como 9, mínimo de amostras para uma folha de 1, e o máximo de atributos considerados de 0.48. De maneira geral, a espécie e o comprimento da asa foram os dois atributos que lideraram a relevância de todos os modelos treinados, enquanto o sexo foi o atributo mais irrelevante em todos eles. Todos os modelos encontraram seus modelos "ótimos" em menos de 200 tentativas, embora alguns tenham os encontrado mais cedo do que os demais. Embora o espaço de busca proposto inicialmente tenha sido justamente de 200 trials, em todos os casos em que o melhor trial estava acima de 150, foram realizados mais 100 trials. Nenhum modelo ótimo foi encontrado no espaço de busca entre 200 e 300.
+
+
+Pssss, você! Simpatizou com os passarinhos? Quer saber qual deles você é? Responda a esse incrível quiz de APENAS 14 perguntas e sane essa dúvida que te manteria acordado a noite!! Ainda melhor do que o quiz dos ratos!!! https://helocano.github.io/quizes/
+
 
 <h2>Enunciado</h2>
 <h3>Objetivo</h3>
