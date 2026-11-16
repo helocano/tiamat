@@ -7,6 +7,7 @@ O seguinte projeto consiste na segunda entrega da disciplina de Aprendizado de M
 
 O repositório conta com os seguintes arquivos:
 - MainTiamat_HeloisaCano.ipynb: Contém tudo o que foi desenvolvido no trabalho, em um notebook do python. Contém toda a parte do código, discussão dos modelos, discussão e análise exploratória dos dados. É o arquivo principal de todo o trabalho. É ele que você deve abrir e executar, para ver os resultados e a discussão deles.
+- Arquivos .db: São os estudos do optuna.
 - arquivos_dados:
   - AVONET_Raw_Data: Arquivo 'cru', disponibilizado pelo AVONET em: https://www.researchgate.net/publication/358829933_AVONET_morphological_ecological_and_geographical_data_for_all_birds
   - dados_limpos.csv: Arquivo limpo e filtrado, como utilizado nos modelos desenvolvidos.
